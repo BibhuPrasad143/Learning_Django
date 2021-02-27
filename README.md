@@ -9,13 +9,6 @@ pip install -r requirements.txt
 npm i
 npm run build
 python manage.py runserver
-```
-
-To navigate back to the starting code of [video 2](https://www.youtube.com/watch?v=w-QJiQwlZzU&t=4s):
-
-```json
-git init
-git clone https://github.com/justdjango/DjReact.git
 cd DjReact
 
 remove the git repo with this command on mac/linux:
